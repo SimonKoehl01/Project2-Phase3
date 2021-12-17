@@ -1,0 +1,3 @@
+Sun texture: https://svs.gsfc.nasa.gov/30362
+
+Earth texture: https://www.solarsystemscope.com/textures/
